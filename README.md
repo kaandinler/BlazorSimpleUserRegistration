@@ -1,4 +1,8 @@
+ 
+ 
  This project is created to save simple user registration with hashing and salting user password in the database.
+ 
+ Database is created via EF Core code first migration, so
  
  before using, change MyConnString value in appsetting.json file
  
