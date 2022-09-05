@@ -1,4 +1,4 @@
- This project is created to save example user registration with hashing and salting user password in the database.
+ This project is created to save simple user registration with hashing and salting user password in the database.
  
  before using, change MyConnString value in appsetting.json file
  
